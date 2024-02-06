@@ -1,0 +1,12 @@
+arm
+hair
+insect
+avocado
+peanut
+eye
+light
+beef
+pottery
+finger
+worry
+happy
